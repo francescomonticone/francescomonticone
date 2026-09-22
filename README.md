@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**francescomonticone/francescomonticone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>francescomonticone@github ~ $ whoami</code></h3>
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="francescomonticone — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="FRA — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+<h3><code>francescomonticone@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="francescomonticone's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>francescomonticone@github ~ $ ./links.sh</code></h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francesco--monticone-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-monticone-04412b2a0)
+
+<br>
+
+</div>

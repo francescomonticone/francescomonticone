@@ -1,0 +1,17 @@
+# venv isolato - ricreabile con python3 -m venv .venv + pip install
+.venv/
+
+# cache python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# foto sorgente e preppata - restano solo in locale per privacy, non pushate
+source-photo.jpg
+source-prepped.png
+*.png
+*.jpg
+*.jpeg
