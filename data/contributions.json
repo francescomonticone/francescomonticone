@@ -1,22 +1,22 @@
 {
   "username": "francescomonticone",
-  "generated_at": "2026-10-15T11:30:04Z",
+  "generated_at": "2026-10-16T11:25:17Z",
   "range": {
     "start": "2025-10-12",
-    "end": "2026-10-15"
+    "end": "2026-10-16"
   },
-  "total_contributions": 71,
-  "active_days": 30,
-  "avg_per_active_day": 2.4,
+  "total_contributions": 74,
+  "active_days": 32,
+  "avg_per_active_day": 2.3,
   "current_streak": {
-    "length": 23,
+    "length": 25,
     "start": "2026-09-22",
-    "end": "2026-10-14"
+    "end": "2026-10-16"
   },
   "longest_streak": {
-    "length": 23,
+    "length": 25,
     "start": "2026-09-22",
-    "end": "2026-10-14"
+    "end": "2026-10-16"
   },
   "best_day": {
     "date": "2026-07-16",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 25
+      "total": 28
     }
   ],
   "days": [
@@ -1551,7 +1551,11 @@
     },
     {
       "date": "2026-10-15",
-      "count": 0
+      "count": 1
+    },
+    {
+      "date": "2026-10-16",
+      "count": 2
     }
   ]
 }
